@@ -9,9 +9,9 @@ All incidents, organisations and people described here are fictional and based o
 
 1. [Home network and password security audit](01-home-security-audit.md) - an audit of my own home network, password practices and IoT devices against NCSC and NICSC guidance, with a controls assessment, mitigation plan and review.
 2. [Responding to a brute force attack](02-responding-to-brute-force-attack.md) - incident report on a compromised website admin panel, using tcpdump and sandbox analysis.
-3. [Reading a Wireshark log](03-FILENAME-HERE.md) - [add one-line description].
-4. [tcpdump analysis](04-tcpdump-analysis.md) - [add one-line description].
-5. [Data breach investigation](05-data-breach-investigation.md) - [add one-line description].
+3. [Reading a Wireshark log](03-FILENAME-HERE.md) - ADD DESCRIPTION
+4. [tcpdump analysis](04-tcpdump-analysis.md) - ADD DESCRIPTION
+5. [Data breach investigation](05-data-breach-investigation.md) - ADD DESCRIPTION
 6. [ICMP flood incident report](06-ICMP-attack-response.md) - a DoS incident analysed using the NIST Cybersecurity Framework.
 
 ## In progress
