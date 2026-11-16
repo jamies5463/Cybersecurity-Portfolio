@@ -1,7 +1,9 @@
 # Jamie Satterley - Exeter, UK - jamiesatterley@hotmail.com - Cybersecurity Portfolio
 
 ## About
-I am working towards an entry-level role as a SOC Analyst or Security Analyst. I come from a social work background and now work in IT, and I am completing the Google Cybersecurity Certificate alongside this. This portfolio records what I have learned as I go, so some pieces are more developed than others.
+I work in digital systems and IT support, where my day-to-day tasks include designing and maintaining a database platform, managing user accounts and access, supporting mobile device management, and improving the processes behind them. I came to this from a social work background, and I am developing my technical knowledge alongside the job.
+
+I chose the Google Cybersecurity Certificate for its breadth: networks, firewalls, risk management, Linux, SQL and incident response all connect directly to the systems I work with. This portfolio records what I have learned as I go, so some pieces are more developed than others.
 
 All incidents, organisations and people described here are fictional and based on course scenarios, unless a piece states otherwise.
 
@@ -15,7 +17,7 @@ All incidents, organisations and people described here are fictional and based o
 6. [ICMP flood incident report](06-ICMP-attack-response.md) - a DoS incident analysed using the NIST Cybersecurity Framework.
 
 ## In progress
-- ANY LIVE PROJECTS HERE
+- I am making finishing touches to portfolio piece 06, Managing File Permissions in Linux.
 
 ## Skills and tools so far
 - Network protocols and the OSI and TCP/IP models
@@ -24,5 +26,3 @@ All incidents, organisations and people described here are fictional and based o
 - Risk assessment and controls assessment
 - Basic HTML, CSS, JavaScript and Python
 
-## Contact
-- ADD LINKEDIN HERE
