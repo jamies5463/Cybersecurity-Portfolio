@@ -18,7 +18,7 @@ All incidents, organisations and people described here are fictional and based o
 7. [Managing file permissions in Linux](07-using-linux-commands-to-manage-file-permissions.md) - Linux file permissions walkthrough using ls -la and chmod (symbolic and numeric) to inspect and change file, hidden file and directory permissions, with explanations of the permissions string.
 
 ## In progress
-- I am making finishing touches to portfolio piece 06, Managing File Permissions in Linux.
+- I am currently studying the Tools of the Trade: Linux and SQL unit of the Google Cybersecurity Certificate.
 
 ## Skills and tools so far
 - Network protocols and the OSI and TCP/IP models
