@@ -15,6 +15,7 @@ All incidents, organisations and people described here are fictional and based o
 4. [tcpdump analysis](04-tcpdump-analysis.md) - Incident report using tcpdump to diagnose a website outage (“udp port 53 unreachable”), tracing it to a DNS server fault and suggesting a DoS attack or firewall misconfiguration as likely causes.
 5. [Data breach investigation](05-data-breach-investigation.md) - Risk assessment of a social media data breach, identifying four vulnerabilities and recommending hardening measures such as MFA, network segmentation and WPA3.
 6. [ICMP flood incident report](06-ICMP-attack-response.md) - a DoS incident analysed using the NIST Cybersecurity Framework.
+7. [Managing file permissions in Linux](07-using-linux-commands-to-manage-file-permissions.md) - Linux file permissions walkthrough using ls -la and chmod (symbolic and numeric) to inspect and change file, hidden file and directory permissions, with explanations of the permissions string.
 
 ## In progress
 - I am making finishing touches to portfolio piece 06, Managing File Permissions in Linux.
